@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#2b1a0e"/>
+  <rect x="20" y="20" width="560" height="360" rx="10" fill="#a0522d" stroke="#d4af37" stroke-width="4"/>
+  <!-- Wood grain patterns -->
+  <path d="M 30,50 Q 200,80 570,40 M 30,120 Q 300,160 570,110 M 30,200 Q 150,240 570,190 M 30,280 Q 350,310 570,270 M 30,350 Q 250,380 570,340" stroke="#8b4513" stroke-width="6" fill="none" opacity="0.6"/>
+  <rect x="40" y="300" width="520" height="60" fill="rgba(0,0,0,0.6)" rx="5"/>
+  <text x="300" y="338" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#f5f5dc" text-anchor="middle">Commercial &amp; Green Marine Plywood</text>
+</svg>
